@@ -34,7 +34,6 @@
 
 .row-poster:hover {
     transform: scale(1.3);
-    cursor: grab;
     opacity: 1;
 }
 
